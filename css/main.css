@@ -9,7 +9,9 @@ img {
   width:  100%;
 }
 
-h1, h2 {
+h1, h2, h3 {
+  font-family: "Patua One", sans-serif;
+
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -18,7 +20,7 @@ figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
-
+  font-family: "Patua One", sans-serif;
 }
 
 nav {
@@ -46,4 +48,5 @@ nav a:hover {
 
 .intro {
   font-size: 1rem;
+
 }
