@@ -1,12 +1,11 @@
-html  {
-  background-color:  #f2f1ed;
+html {
+  background-color: #f2f1ed;
   font-family: Georgia, serif;
-  line-height:  1.5;
-
+  line-height: 1.5;
 }
 
 img {
-  width:  100%;
+  width: 100%;
 }
 
 h1, h2, h3 {
@@ -26,6 +25,7 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
+  font-family: "Patua one", sans-serif;
 }
 
 nav ol {
@@ -37,10 +37,6 @@ nav a {
   text-decoration: none;
 }
 
-nav ol {
-  list-style-type: none;
-}
-
 nav a:hover {
   color: #b42885;
   text-decoration: underline;
@@ -48,5 +44,4 @@ nav a:hover {
 
 .intro {
   font-size: 1rem;
-
 }
